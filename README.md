@@ -144,18 +144,19 @@ Currently going deeper into backend development, REST APIs, authentication, rout
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NEEL29-tech&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-stats.vercel.app/api?username=NEEL29-tech&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="NEEL's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=NEEL29-tech&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEEL29-tech&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
@@ -187,10 +188,18 @@ I want to **understand them, build with them, break things, fix them, and keep i
 
 ## 🤝 Let's Connect
 
+## 🤝 Connect With Me
+
 <p align="center">
+
   <a href="https://github.com/NEEL29-tech">
     <img src="https://img.shields.io/badge/GitHub-NEEL29--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://www.instagram.com/neel_avlani/">
+    <img src="https://img.shields.io/badge/Instagram-neel__avlani-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
